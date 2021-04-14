@@ -1,0 +1,40 @@
+Plan for experiment design: 
+
+1) Identify suitable corpus
+-Must include documents that can be pre-categorized + long enough for BOW repre>
+-Must be able to be edited into BOW (probably just needs to be .txt)
+
+2) Create Bag-of-Words (BOW) representations
+-Use Perl script to remove function words + context dependent meanings
+-Shuffle using Fisher-Yates shuffling within documents
+-print shuffled text into 3 columns
+-1 BOW representation  per document
+
+3) Experimental conditions;
+ 
+i) Control
+-remove title/subject
+-reproduce original layout
+-present stimulus
+-remove stimulus after time limit
+-record subject response in file
+
+ii) Test 
+-remove title/subject 
+-present BOW representation
+-present stimulus
+-remove stimulus after time limit
+-record subject response in file
+
+4) Run experiment
+
+5) Results
+-Scatter plot comparing participant accuracy between conditions
+-present averages in a table
+-if I decide to run multiple time limits then present line graph comparing cond>
+
+Excluded from Wolf (2006) expriment:
+
+a) I will most likely only use two time limits (2 sec and unlimited) 
+
+b) I am omitting post-response confidence ratings 
