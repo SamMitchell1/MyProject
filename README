@@ -1,1 +1,1 @@
-In this project I will recreate the experiment design used in Human Document Classification Using Bag of Words, Wolf et al. (2006). I will use a new corpus and new categories, perhaps focusing on a more challenging or specific domain, to see if results still suggest that human document categorization is effective and seemingly purely semantic.
+In this project I will recreate the experiment design used in Dehaene et al (1990) in their experiment 1. I will attempt to see if the effect can be extended to 3 and 4 digit strings. 
