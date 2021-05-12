@@ -1,1 +1,33 @@
-In this project I will recreate the experiment design used in Dehaene et al (1990) in their experiment 1. I will attempt to see if the effect can be extended to 3 and 4 digit strings. 
+In this project I will alter an experiment design used in Dehaene et al (1990). I will attempt to see if the numerical distance effect, which has been found in two digits strings and was replicated in Dehaene et al. (1900), is also found with 3 and 4 digit strings. 
+The experiment includes two conditions. 
+
+The first compares the number 555 to all other numbers where the centuries digit changed i.e., all numbers from 100-999 excluding the 500s.
+
+The second compares the number 555 to numbers where only the decades and units changed i.e., all numbers from 500 to 599 excluding 555. 
+
+I have included two versions of the experiment, one with three digit stimuli (centuries, decades, and units) and another with four digits (millenia, centuries, decades, and units). 
+The four digit version repeated the two blocks but with numbers from 1000-9999 excluding the 5000s and numbers from 5000 to 5999 excluding 5555 respectively. 
+
+The two versions of the experiments attempted to test the numerical distance effect with numbers with more than two digits. This would predict that subjects achieve faster reaction times on both conditions of experiment 4 and that the first condition of both experiments was faster than the second. 
+
+Another goal of this experiment was to try to find evidence that either number size judgments are computed digit by digit or by difference in overall magnitude If the former is the case, then we would expect the reaction times in the first condition to be much quicker than in the second condition of both versions of the experiment. I attempted to address this by comparing the the two conditions, one where the first digit remained the same and the other where it changed. My reasoning was that if the reaction times were quicker on condition where the first digit changed this would be evidence in favor of digit by digit processing. 
+
+One issue with this methodology, however, was that this cannot be seperated from differences in magnitude. If it is the case that someone has a quicker reaction time to the presentation of 914 vs 590 on the three digit experiment then this can equally be explained by the larger distance between the cue (555) and 914 or by the fact that the cue can be discerned from 914 at the reading of the first digit, whereas 590 can only be discerned from 555 by the second digit. Unfortunely, it seems to me that the current paradigm is inappropriate to answer this question as at any length of digits as it will also be the case that distance between the digits will correlate to distance on an abstract number line. For example, 1 vs 9 can be discerned as quickly as 1,000,000 vs 9,000,000. 
+
+The analysis considers the data gathered from a single trial of both versions with myself as the test subject. 
+
+My results were as follows. On both versions of the experiment the first condition was mean reaction time was faster than the second. Across all conditions, the first condition of the four digit experiment had the fastest reaction times and the second condition of the three digit experiment had the slowest. This is strong evidence in favour of the numerical distance effect as the condition with the greatest variety in number magnitude was the faster, and that with the least variety in magnitude was the slowest. 
+
+The results suggest that the numerical distance effect does extend to three and four digit numbers. However, the current experiment cannot make a distinction between the digit-by-digit or magnitudinal difference hypotheses of numerical processing. 
+
+Another weakness of the current methodology was that I presented the stimuli in two sequential blocks. This means that after a couple of trials in the second block the observant participant will start to realise the first digit never changes, and can therefore focus on the second digit. Although if this did effect the results it would only increase differences in reaction times so would not undermine my conclusion in favor of the numerical distance effect. 
+
+Another issue was that I was not able to remove incorrect responses from my final analyses of the data (I'm just not familiar enough with seaborn or matplotlib). 
+
+Course Overview
+
+Before this course my only previous experience of coding was the first semester DataCamp course. This was only helpful insofar as the most fundamental basics of Python could be carried over. I had absolutely no experience programming experiments in Python. I found the textbooks helpful in the earlier part of the semester for the basics and during the middle of the semester when we worked through pygame examples of the website and designed stimuli I felt a lot more confident. I wish we had spent a little more time on loops as I was very unsure for most of the semester how to program these without using examples found on the website. I struggled getting started with the final project due to my total unfamiliarity with expyriment (including problems getting it to work on my laptop) and the relative lack of online resources to work with compared to other modules made things more difficult. Working through this project, however, I feel as though I understand the basics and could design other experiments that had simple stimuli and structures. In the course of designing this experiment two things I learned to do were create blocks and create an analyzable dataframe. 
+
+Overall, I have been able to program a working experiment as a result of this course, which I had no idea how to do at its start. I think I have missed however, getting familiar with designing stimuli in pygame and then working with expyriment has perhaps left my repetoire a little unbalanced and it is a shame I didn't get to use the work with did with the former in class on the final experiments. 
+
+Obviously being online was very difficult and made asking small and quick questions throughout the term harder, although when I did speak to the instructors I found the feedback very helpful! If the same situation persists next year then I think an increased number of instructors would be great, overall the hardest part of the course was working in such a big group at a distance. Given the circumstances I think I learned a lot from the course and the instructors managed to overcome most of the difficulties presented by the format. 
