@@ -1,3 +1,10 @@
+Guide:
+
+threedigitcomp.py and fourdigitcomp.py are the two versions of the experiment (three digit is the original). 
+catplot.py was used to generate the results graphs saved as .pngs. 
+
+Experiment intro: 
+
 In this project I will alter an experiment design used in Dehaene et al (1990). I will attempt to see if the numerical distance effect, which has been found in two digits strings and was replicated in Dehaene et al. (1900), is also found with 3 and 4 digit strings. 
 The experiment includes two conditions. 
 
@@ -24,7 +31,7 @@ Another weakness of the current methodology was that I presented the stimuli in 
 
 Another issue was that I was not able to remove incorrect responses from my final analyses of the data (I'm just not familiar enough with seaborn or matplotlib). 
 
-Course Overview
+Course overview:
 
 Before this course my only previous experience of coding was the first semester DataCamp course. This was only helpful insofar as the most fundamental basics of Python could be carried over. I had absolutely no experience programming experiments in Python. I found the textbooks helpful in the earlier part of the semester for the basics and during the middle of the semester when we worked through pygame examples of the website and designed stimuli I felt a lot more confident. I wish we had spent a little more time on loops as I was very unsure for most of the semester how to program these without using examples found on the website. I struggled getting started with the final project due to my total unfamiliarity with expyriment (including problems getting it to work on my laptop) and the relative lack of online resources to work with compared to other modules made things more difficult. Working through this project, however, I feel as though I understand the basics and could design other experiments that had simple stimuli and structures. In the course of designing this experiment two things I learned to do were create blocks and create an analyzable dataframe. 
 
