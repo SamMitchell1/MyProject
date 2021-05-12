@@ -1,0 +1,31 @@
+#Expyriment 0.10.0 (Python 3.7.10), .xpd-file, coding: UTF-8
+#date: Wed May 12 2021 18:23:14
+#--EXPERIMENT INFO
+#e mainfile: threedigitcomp.py
+#e sha1: ce7718
+#e modules: 
+#e Experiment: 3 Digit Comparison task
+#e no between subject factors
+#--SUBJECT INFO
+#s id: 1
+subject_id,number,is_larger,is_smaller,respkey,RT,is_correct,block
+1,414,False,True,j,663,True,cen_dec_uni
+1,889,True,False,f,443,True,cen_dec_uni
+1,492,False,True,j,549,True,cen_dec_uni
+1,299,False,True,j,442,True,cen_dec_uni
+1,713,True,False,f,434,True,cen_dec_uni
+1,936,True,False,f,441,True,cen_dec_uni
+1,982,True,False,f,420,True,cen_dec_uni
+1,333,False,True,j,505,True,cen_dec_uni
+1,183,False,True,j,415,True,cen_dec_uni
+1,317,False,True,j,715,True,cen_dec_uni
+1,538,False,True,j,417,True,cen_uni
+1,516,False,True,j,612,True,cen_uni
+1,527,False,True,j,1182,True,cen_uni
+1,514,False,True,j,647,True,cen_uni
+1,534,False,True,j,471,True,cen_uni
+1,521,False,True,j,429,True,cen_uni
+1,598,True,False,f,587,True,cen_uni
+1,547,False,True,j,435,True,cen_uni
+1,531,False,True,j,473,True,cen_uni
+1,508,False,True,j,440,True,cen_uni
